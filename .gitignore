@@ -1,0 +1,5 @@
+#此为注释 - 将被 Git 忽略
+#忽略所有 log tmp目录
+log/ tmp/ 
+# ignore all .text files in the doc/ dictory
+doc/**/*.txt
